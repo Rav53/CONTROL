@@ -1,0 +1,15 @@
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\bin\Debug\net6.0\codzadachi.exe
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\bin\Debug\net6.0\codzadachi.deps.json
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\bin\Debug\net6.0\codzadachi.runtimeconfig.json
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\bin\Debug\net6.0\codzadachi.dll
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\bin\Debug\net6.0\codzadachi.pdb
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.csproj.AssemblyReference.cache
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.AssemblyInfoInputs.cache
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.AssemblyInfo.cs
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.csproj.CoreCompileInputs.cache
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.dll
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\refint\codzadachi.dll
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.pdb
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\codzadachi.genruntimeconfig.cache
+C:\Users\Rav007\Desktop\contr1\control\codzadachi\obj\Debug\net6.0\ref\codzadachi.dll
